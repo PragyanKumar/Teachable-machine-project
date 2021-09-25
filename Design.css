@@ -1,0 +1,19 @@
+body{
+    background-color:darksalmon;
+    color:dodgerblue;
+}
+.heading{
+    width: 80%;
+    font-size: 36px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color:darkturquoise;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: 29px;
+background-color:cornsilk;
+}
+#camera{
+    border:2px dashed cyan ;
+    height: 300px;
+    width: 350px;
+}
